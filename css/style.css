@@ -19,7 +19,7 @@ h3 {font-style: italic;
   font-size: 12px;
 }
 
-.completed {
+#tasks.completed {
   background: #ccc;
   text-decoration: underline;
 }
